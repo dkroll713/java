@@ -1,8 +1,0 @@
-{
-  "java.project.sourcePaths": [
-    "Temperature/src",
-    "PushCounter/src",
-    "Palindromes/src",
-    "String Manipulation"
-  ]
-}
